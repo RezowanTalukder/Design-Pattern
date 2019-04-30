@@ -1,0 +1,3 @@
+interface Fly {
+    void flyStyle() ;
+}
